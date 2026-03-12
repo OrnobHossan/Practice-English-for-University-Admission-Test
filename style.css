@@ -46,7 +46,7 @@ color:#ffd700;
 
 .Welcome_Box{
 height:320px;
-background:url("welcome.jpeg") no-repeat center/cover;
+background:url("Welcome.jpeg") no-repeat center/cover;
 display:flex;
 justify-content:center;
 align-items:flex-end;
